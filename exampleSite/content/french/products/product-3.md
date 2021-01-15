@@ -1,6 +1,6 @@
 ---
 title: Visualisation Parcours Client Sur Votre Site Internet
-date: 2019-10-17T05:22:16+00:00
+date: 2019-10-17T05:22:16.000+00:00
 images:
 - "/images/user-customer-journey-template.jpg"
 description: Ce tableau de bord Google Data Studio vous permet d’analyser le parcours
@@ -11,6 +11,7 @@ price: "29"
 discount_price: ''
 colors: []
 sizes: []
+guid: 34560adb-4c72-44c4-a4dd-4d6218ef6ad7
 
 ---
 Ce tableau de bord vous permet d’analyser le parcours des utilisateurs sur votre site web. Ce parcours, appelé aussi Customer Journey commence avec l’intention des utilisateurs: seulement pour regarder des infos, peut-être acheter et acheter.  
