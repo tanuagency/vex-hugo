@@ -20,6 +20,9 @@ fields:
 - type: text
   name: discount_price
   label: discount_price
+- type: text
+  name: guid
+  label: guid
 - type: tag_list
   name: colors
   label: colors
