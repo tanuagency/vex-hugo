@@ -58,7 +58,7 @@ weight = 5
 [params]
 author = "Themefisher"
 contact_form_action = "#"
-currency = "$"
+currency = "€"
 description = "This is meta description"
 logo = "images/logo.png"
 logo_width = "100px"
