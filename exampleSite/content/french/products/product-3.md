@@ -1,24 +1,23 @@
 ---
-title: "Xiaomi Watch"
-date: 2019-10-17T11:22:16+06:00
-images: 
-  - "images/showcase/showcase-3.png"
-  - "images/showcase/showcase-2.png"
-  - "images/showcase/showcase-1.png"
-  - "images/showcase/showcase-4.png"
+title: Visualisation Parcours Client Sur Votre Site Internet
+date: 2019-10-17T05:22:16+00:00
+images:
+- "/images/user-customer-journey-template.jpg"
+description: Ce tableau de bord Google Data Studio vous permet d’analyser le parcours
+  de votre utilisateur sur votre site. Vous auriez ainsi un aperçu du processus de
+  conversion, depuis la première interaction et jusqu’à l’achat. La fonctionnalité
+  Google Analytics Enhanced Ecommerce est requise pour pour afficher les données.
+price: "29"
+discount_price: ''
+colors: []
+sizes: []
 
-# meta description
-description : "this is meta description"
-
-# product Price
-price: "30.00"
-discount_price: "25.00"
-
-# product variation
-colors : ["black","white","gray"]
-sizes : ["small","medium","large"]
-
-draft: false
 ---
+Ce tableau de bord vous permet d’analyser le parcours des utilisateurs sur votre site web. Ce parcours, appelé aussi Customer Journey commence avec l’intention des utilisateurs: seulement pour regarder des infos, peut-être acheter et acheter.  
+Vous pouvez voir ensuite le type d’appareil utiliser lors des visites et où habitent vos utilisateurs.
 
-Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.
+Parmi d’autres fonctionnalités, ce tableau de bord affichent les pages principales de votre site, le nombre d’utilisateurs qui quittent immédiatement votre site, les ajout de produits au panier, ainsi que le taux d’abandon du panier.
+
+À la fin du parcours, vous voyez combien d’utilisateurs ont acheté vos produits et l’évolution dans le temps de vos revenus.
+
+Toutes ces données sont affichées dans une seule page afin de voir le parcours complet: depuis la première visite et jusqu’à l’achat.
