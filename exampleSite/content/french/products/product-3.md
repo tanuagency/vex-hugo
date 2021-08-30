@@ -11,7 +11,7 @@ price: "29"
 discount_price: ''
 colors: []
 sizes: []
-guid: 34560adb-4c72-44c4-a4dd-4d6218ef6ad7
+guid: 2ffa6809-5fe4-4a30-a42f-fcfd017d8409
 
 ---
 Ce tableau de bord vous permet d’analyser le parcours des utilisateurs sur votre site web. Ce parcours, appelé aussi Customer Journey commence avec l’intention des utilisateurs: seulement pour regarder des infos, peut-être acheter et acheter.  
